@@ -1,7 +1,7 @@
 <div align="center">
-<h1> Hi I'm Maleesha Kumarasinghe.
+<h3> Hi I'm Maleesha Kumarasinghe.
 
-My SLIIT registration Number is IT20088514 👋</h1>
+My SLIIT registration Number is IT20088514 👋</h3>
 </div>
 <!-- 
 <a href="https://github.com/anuraghazra/github-readme-stats">
