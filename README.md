@@ -3,7 +3,9 @@
 My SLIIT registration Number is IT20088514 👋 -->
 
 <div align="center">
-<h1>Hi👋</h1>
+<h1> Hi I'm Maleesha Kumarasinghe.
+
+My SLIIT registration Number is IT20088514 👋</h1>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
