@@ -20,7 +20,7 @@ My SLIIT registration Number is IT20088514 👋</h3>
 </div> -->
 
 <hr/>
-<div align='left'>
+<div align='center'>
   <a href='#'>
     <img alt='Top Languages'
          src='https://github-readme-stats.vercel.app/api/top-langs/?username=KMaleesha&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F'
